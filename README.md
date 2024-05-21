@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @ayush-agrawal001
-- 👀 I’m interested in websites and probably web3.
-- 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate on anything in which i will gain experience.
+🌐 Web Developer | Python Learner | Web 3.0 Enthusiast
+
+👨‍💻 Passionate about building responsive and dynamic web applications.
+
+🐍 Continuously learning and experimenting with Python to enhance backend functionality.
+
+🚀 Exploring the future of decentralized web technologies and blockchain.
+
+📚 Lifelong learner dedicated to staying updated with the latest trends and technologies.
+
+🔗 Let's connect and collaborate on innovative projects!
 - 📫 How to reach me ` thebestayush62@gmail.com `  .
 
 <!---
