@@ -1,1 +1,1 @@
-Thank you!
+Restructuring the asymmetric power.
